@@ -10,7 +10,7 @@ Google Developer Student Clubs' Android Study Jams Submission 2022 by Mukesh Pat
   We created the Android app called DigiLedger, which is built in Android Studio with the help of Kotlin Language. It can help the shopkeeper by giving him features that include Transaction history, calculating sum amounts, decesions on whether to recevie remaning amount or give extra amount. To add, the shopkeeper does not even have to add the sum of money hiself, because the app does that for you! Shopkeeper can simply enter the number of denominations recevied and enter total bill amount and the app will do the rest of the work.
 
   <b> Functionality & Concepts used : </b>
-- The App has a very simple interface which helps shopkeepers to easily select their task, for example to look at their transaction history, or to calculate for a transaction itself. We have used technologies including but not limited to:
+The App has a very simple interface which helps shopkeepers to easily select their task, for example to look at their transaction history, or to calculate for a transaction itself. We have used technologies including but not limited to:
 - Room Database: To store the transaction history
 - Jetpack Navigation: To contribute between Screens
 - Livedata: To update the UI accordingly
