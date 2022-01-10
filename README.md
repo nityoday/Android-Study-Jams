@@ -1,5 +1,6 @@
 # Android-Study-Jams
 Google Developer Student Clubs' Android Study Jams Submission 2022 by Mukesh Patel School of Technology Management &amp; Engineering, Shirpur.
+
   Application Name: DigiLedger
 
   <b> Problem Statement: </b>
@@ -14,7 +15,7 @@ Google Developer Student Clubs' Android Study Jams Submission 2022 by Mukesh Pat
 - Jetpack Navigation: To contribute between Screens
 - Livedata: To update the UI accordingly
 
-  <b> Application Link & Future Scope : </b>
+<b> Application Link & Future Scope : </b>
 
 Application Link: 
 <br>
