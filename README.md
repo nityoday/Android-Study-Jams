@@ -17,7 +17,7 @@ The App has a very simple interface which helps shopkeepers to easily select the
 
 <b> Application Link & Future Scope : </b>
 
-Application Link: [Apk](TBD)
+Application Link: [Apk](https://drive.google.com/file/d/1Ov5md7TEaDn04iPqnFEnCiqjLeXd-2zz/view?usp=sharing)
 <br>
 Future Scope: We look forward to implement more features to the application with accordance to feedback. We plan to include other currencies for global support in the application too.
   We can then deploy our application to Play Store and roll it out for everyone to help everyone.
